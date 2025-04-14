@@ -155,6 +155,8 @@ body {
 
 .nav-right img {
     width: 40px;
+    height:70px;
+     weight:70px;
 }
 
 /* Services section */
@@ -201,8 +203,8 @@ footer {
 
     .nav-right img {
         margin-top: 10px;
-        height:40px;
-        weight:40px;
+        height:70px;
+        weight:70px;
     }
 
     .info h1, .info h2, .info p {
