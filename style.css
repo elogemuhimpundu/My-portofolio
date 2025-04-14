@@ -6,7 +6,7 @@
 }
 
 body {
-    background: #f5f5f5;
+   background: #070606;
     color: #333;
 }
 
@@ -16,7 +16,7 @@ body {
     align-items: center;
     padding: 20px 50px;
     background: #0e0d0d;
-    color: white;
+    color: black;
 }
 
 .logo {
