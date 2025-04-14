@@ -118,10 +118,10 @@ body {
     transform: translateY(-10px);
 }
 .card img {
-    width: 60px;
-    margin-bottom: 30px;
+    width: 90px;
+    margin-bottom: 45px;
 }
-/* Style de base (desktop) */
+
 body {
     margin: 0;
     font-family: 'Poppins', sans-serif;
@@ -185,7 +185,7 @@ footer {
 /* -------------------- */
 
 /* Petits écrans - smartphones */
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
     .navbar {
         flex-direction: column;
         align-items: flex-start;
@@ -223,7 +223,7 @@ footer {
 }
 
 /* Très petits écrans (par exemple téléphones en mode portrait) */
-@media (max-width: 480px) {
+@media (max-width: 780px) {
     .logo {
         font-size: 20px;
     }
