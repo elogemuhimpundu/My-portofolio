@@ -159,7 +159,7 @@ body {
      weight:70px;
 }
 
-/* Services section */
+
 .cards {
     display: flex;
     gap: 20px;
@@ -182,11 +182,6 @@ footer {
     margin-top: 40px;
 }
 
-/* -------------------- */
-/* MEDIA QUERIES BELOW */
-/* -------------------- */
-
-/* Petits écrans - smartphones */
 @media (max-width: 1024px) {
     .navbar {
         flex-direction: column;
@@ -226,7 +221,7 @@ footer {
     }
 }
 
-/* Très petits écrans (par exemple téléphones en mode portrait) */
+
 @media (max-width: 780px) {
     .logo {
         font-size: 20px;
